@@ -2,6 +2,6 @@ using System;
 
 public class Program {
   public static void Main(){
-    Console.WriteLine("Oi");
+    Console.WriteLine("Versão 2");
    }
   }
